@@ -5,7 +5,7 @@ College / Institute Name : Symbiosis Institute of Computer Studies and Research
 
 City, State, Pin Code : Pune, Maharashtra, 411016
 
-Name/’s of the Students : Ankita Gupta, Abhi Shah, Ashwin Mehendale
+Name/?s of the Students : Ankita Gupta, Abhi Shah, Ashwin Mehendale
 
 About (Short Description / Summary): 
 The application is a tutorial for learning Data Structures.
