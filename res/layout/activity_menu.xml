@@ -1,0 +1,57 @@
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/RelativeLayout1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:background="@drawable/background"
+    tools:context=".MenuActivity" >
+
+    
+
+    <Button
+        android:id="@+id/btnStack"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="42dp"
+        android:text="@string/stack"
+        android:textSize="30sp" />
+
+    <Button
+        android:id="@+id/btnQueue"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/btnStack"
+        android:layout_below="@+id/btnStack"
+        android:layout_marginTop="28dp"
+        android:text="@string/queue"
+        android:textSize="30sp" />
+
+    <Button 
+        android:id="@+id/btnSelSort" 
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" 
+        android:textSize="30sp"
+        android:layout_alignLeft="@+id/btnQueue" 
+        android:layout_below="@+id/btnQueue" 
+        android:layout_marginTop="24dp" 
+        android:text="@string/selSort" />
+
+    <Button
+        android:id="@+id/btnBubSort"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/btnSelSort"
+        android:layout_below="@+id/btnSelSort"
+        android:layout_marginTop="27dp"
+        android:textSize="30sp"
+        android:text="@string/bubSort" />
+
+</RelativeLayout>

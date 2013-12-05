@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DataStructure</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="stack">STACK</string>
+    <string name="queue">QUEUE</string>
+    <string name="tree">TREE</string>
+    <string name="stackactivity">Stack Activity Page</string>
+    <string name="queueactivity">Queue Activity Page</string>
+    <string name="treeactivity">Tree Activity Page</string>
+
+    <color name="black">#000000</color>
+    <color name="white">#ffffff</color>
+    <color name="yellow">#ffff00</color>
+    <color name="grey">#e1ddcf</color>
+    <color name="red">#ff0000</color>
+
+    <string name="hint">Enter value</string>
+    <string name="push">PUSH</string>
+    <string name="pop">POP</string>
+    <string name="welcome">WELCOME TO DATA STRUCTURES!!! :)</string>
+    <string name="enq">ENQUEUE</string>
+    <string name="start">START</string>
+    <string name="deq">DEQUEUE</string>
+    <string name="submit">SUBMIT</string>
+    <string name="sort">SORT</string>
+    <string name="selSort">SELECTION SORT</string>
+    <string name="bubSort">BUBBLE SORT</string>
+    <string name="stkanim">STACK ANIMATION</string>
+    <string name="selan">Selection Sort Animation</string>
+    <string name="bban">Bubble Sort Animation</string>
+    
+    <string name="qan">
+       1 comes in.
+       2 comes in.
+       3 comes in.
+       1 goes out. 2 and 3 moves up.
+       4 comes in.
+       5 comes in.
+       2 goes out. 3,4 and 5 moves up.
+       3 goes out. 4 and 5 moves up.
+       4 goes out. 5 moves up.
+       5 goes out.
+        </string>
+        
+    <string name="ban">
+        Adjacent values are compared and swapped if right-hand side value is smaller than the left-hand side. Values are arranged in acsending order. 
+    </string>
+    <string name="san">
+        Left-hand side values are compared with the right-hand side values. They are swapped if the left side values are larger than the right side values. Values are arranged in acsending order.
+    </string>
+    
+    <string name="title_activity_menu">MenuActivity</string>
+    <string name="title_activity_stack">StackActivity</string>
+    <string name="title_activity_queue">QueueActivity</string>
+    <string name="title_activity_tree">TreeActivity</string>
+    <string name="title_activity_sort">SortActivity</string>
+    <string name="title_activity_stack_animation">StackAnimation</string>
+    <string name="title_activity_selection_sort">SelectionSort</string>
+    <string name="title_activity_insertion_sort">BubbleSort</string>
+    <string name="title_activity_selection_animation">SelectionAnimation</string>
+    <string name="title_activity_bubble_animation">BubbleAnimation</string>
+    <string name="title_activity_queue_animation">QueueAnimation</string>
+
+</resources>
