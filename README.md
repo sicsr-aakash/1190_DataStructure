@@ -1,5 +1,4 @@
 
-
 Name : Data Structure Remote Centre ID : 1190
 
 College / Institute Name : Symbiosis Institute of Computer Studies and Research
@@ -40,7 +39,7 @@ To view an animated example, click on "Selection Sort Animation".
 
 Bubble Sort can be used in a similar manner.
 
-Contact (email id or mailing list link/google-group):-
+Contact (email id or mailing list link/google-group):- gayatri.venugopal@sicsr.ac.in
 
 GNU GPL Version 3, 29 June 2007.
 
